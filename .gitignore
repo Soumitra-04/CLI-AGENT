@@ -1,0 +1,45 @@
+# 🔐 Environment variables
+.env
+
+# 🐍 Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 📦 Virtual environments
+venv/
+.venv/
+
+# 📁 OS files
+.DS_Store
+Thumbs.db
+
+# 🧠 IDE / Editor
+.vscode/
+.idea/
+
+# 🔒 Python version / env managers
+.python-version
+
+# 📦 UV / lock files (optional)
+uv.lock
+
+# 📊 Logs / temp
+*.log
+
+# 🧪 Testing / cache
+.pytest_cache/
+
+# 📁 Local memory data (optional but recommended)
+memory/notes.txt
+
+# 📁 WhatsApp kit temp files
+PyWhatKit_DB.txt
+
+# 📦 Build files
+dist/
+build/
+*.egg-info/
+
+# 📄 Misc
+*.swp

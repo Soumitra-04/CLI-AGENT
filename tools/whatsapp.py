@@ -7,7 +7,7 @@ def whatsapp(phone_number,message):
     minute = curr_time.minute
     try:
         print("Sending message...\n")
-        pywhatkit.sendwhatmsg(phone_number, message, hour, minute,wait_time=5)
+        pywhatkit.sendwhatmsg(phone_number, message, hour, minute,wait_time=15)
         return "Message sent Successfully"
     except Exception as e:
         return e

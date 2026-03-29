@@ -63,8 +63,8 @@ CLI_AGENT_V1/
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/your-username/jarvis-cli.git
-cd jarvis-cli
+git clone https://github.com/your-username/CLI-AGENT.git
+cd cli-agent
 ```
 
 ---
@@ -138,7 +138,7 @@ You: what is operating system
 
 * WhatsApp automation uses **WhatsApp Web**
 * You must be **logged in**
-* Message is scheduled **~3 minutes ahead**
+* Message is scheduled **~2 minutes ahead**
 * Do not interact with keyboard/mouse during sending
 
 ---

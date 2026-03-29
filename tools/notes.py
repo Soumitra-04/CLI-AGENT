@@ -5,3 +5,4 @@ def save_note(text):
         date_today = now.strftime("%Y-%m-%d %H:%M")
         formatted = f"[{date_today}] {text}\n"
         file.write(formatted)
+    return "note saved"
